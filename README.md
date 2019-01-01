@@ -1,4 +1,4 @@
-# TCMB-Currency-Rates-JQuery
+# TCMB-Currency-Rates-JQuery https://doviz.mevlutcanvar.com.tr/clientside/
 A HTML page like a widget that can load currency rates from an xml file. 
 This file downloaded from Central Bank Of The Republic Of Turkey resources. 
 Also present a calculator for changing the currencies among themselves. 
